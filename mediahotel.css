@@ -1,0 +1,231 @@
+@media screen and (min-width:320px) and (max-width:570px)  {
+    .search1{
+        top: -63px !important;
+        left: 71px !important;
+    }
+    .last{
+        flex-direction: column;
+    }
+
+    .last3{
+        flex-direction: column;
+    }
+    .brandimage {
+        margin-top: 15px !important;
+    }
+    .servicecontent1{
+        left: 121px !important;
+    }
+    .servicecontent2{
+        top: 649px !important;
+    left: 50px !important;
+    right: 0px !important;
+
+    
+    }
+    .servicecontent6{
+
+        top: 868px !important;
+    left: 105px !important;
+    right: 0px !important;
+    }
+    .servicecontent3{
+
+    top: 1102px !important;
+    left: 69px !important;
+}
+.servicecontent4{
+
+top: 1319px !important;
+    left: 5px !important;
+
+}
+.servicecontent5 {
+   
+    top: 1538px !important;
+    left: 123px !important;
+}
+.life{
+    flex-direction: column;
+}
+.destination a{
+    margin-left: 0px !important;
+}
+body{
+    margin-left: 20px !important;
+}
+.snamebar{
+    height: unset !important;
+}
+
+.navbar .navbar-toggler:focus{
+    color: #ff4444;
+    }
+}
+
+
+/* ***********************************************************************************************88 */
+
+@media screen and (min-width:571px) and (max-width:1024px){
+
+    .sphoto {
+        width: 99px !important;
+         height: unset !important; 
+    }
+    .snamebar{
+        height: unset !important;
+    }
+
+
+    .sphoto img{
+        object-fit: cover !important;
+    }
+    .snamebar a{
+        padding: 14px 1px !important;
+    }
+    .life{
+        flex-direction: column;
+    }
+    .life strong{
+        font-size: 18px !important;
+    }
+    .servicecontent1 {
+       
+        top: 449px !important;
+        left: 168px !important;
+       
+    }
+    .servicecontent2 {
+      
+        top: 227px !important;
+        right: 38px !important;
+    }
+    .servicecontent6 h4,.servicecontent3 h4{
+        font-size: 17px !important;
+    }
+    .servicecontent6{
+        right: 45px !important;
+    }
+    .servicecontent3{
+        left: 37px !important;
+    }
+    .servicecontent5{
+        right: 344px !important;
+    }
+    .servicecontent4 h4{
+        font-size: 10px;
+    }
+    .servicecontent4{
+
+        z-index: 1 !important;
+        left: 584px !important;
+    }
+    .search1{
+        top: -95px !important;
+    left: 180px !important;
+    }
+}
+
+/* ***************************************************************************************************888 */
+
+/* our hotel mobile view */
+
+@media screen and (min-width:320px) and (max-width:570px) {
+
+    .searrchbar1 i {
+          top: 6px !important;
+        left: 237px !important;
+    }
+    .searrchbar{
+        flex-direction: column;
+    }
+}
+
+/* ************************************************************************************************************ */
+
+/* *******************our hotel tablet view************************* */
+
+
+
+
+@media screen and (min-width:571px) and (max-width:1024px){
+    .searrchbar1 i {
+        
+        top: 15px !important;
+        left: 270px !important;
+    }
+}
+
+/* ******************************************************** */
+
+/* dinning mobile view*************************************** */
+
+@media screen and (min-width:320px) and (max-width:570px){
+
+    .reserve{
+        margin-top: 0px !important;
+    }
+    .dash{
+        margin: 0px !important;
+    }
+    #dress {
+        margin-left: 20px !important;
+    }
+    .text1 a{
+        margin-left: 0 !important;
+    }
+    .text1 {
+        margin-top: 20px !important;
+        
+    }
+    .searrchbar2 i {
+       
+        right: 5px !important;
+    }
+}
+
+/* 8888888888888888888888888888888888888888888888888888888 */
+
+/* dinning tablet view */
+
+@media screen and (min-width:571px) and (max-width:1024px){
+    .text1 a{
+        margin-left: 0 !important;
+    }
+    .reserve{
+        margin-top: 0 !important;
+    }
+    .reserve a{
+        font-size: 7px !important;
+    }
+}
+
+/* ************************************************************ */
+
+
+/* wedding mpobile view********************************** */
+
+@media screen and (min-width:320px) and (max-width:570px){
+
+    .tajvideo iframe{
+        width: 100% !important; 
+    }
+    .linkexp{
+        margin-left: 0 !important;
+    }
+     #card2 {
+        margin: 10px 0px !important;
+        
+    }
+}
+
+@media screen and (min-width:571px) and (max-width:1024px){
+    .tajvideo iframe{
+        width: 100% !important; 
+    }
+
+}
+
+
+
+
